@@ -1,3 +1,9 @@
+Оригинальный репозиторий Pulsar  
+https://github.com/apache/pulsar  
+
+Архитектура и Реверс инжинириг Envoy  
+https://drive.google.com/drive/folders/1I0DgyuCML8FhxNlorMQQmcPZtXDqeU1M   
+
 <!--
 
     Licensed to the Apache Software Foundation (ASF) under one
