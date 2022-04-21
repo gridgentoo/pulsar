@@ -1,7 +1,7 @@
 Оригинальный репозиторий Pulsar  
 https://github.com/apache/pulsar  
 
-Архитектура и Реверс инжинириг Envoy  
+Архитектура и Реверс инжинириг Pulsar  
 https://drive.google.com/drive/folders/1I0DgyuCML8FhxNlorMQQmcPZtXDqeU1M   
 
 <!--
